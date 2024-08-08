@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+ background-color: #c1e1c1;
+  margin: 0px;
+  padding: 0px;
+}
+#navbar{
+  background-color:#005c00;
+  text-align : center;
+  color:white;
+  font-size: 2em;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+img{
+width: 30vh;
+  margin-left: 3vh;
+}
